@@ -1,5 +1,5 @@
 # nodejs 实战心得
-这是在学习[node-lessons][https://github.com/alsotang/node-lessons/]时，自己做的练习。
+这是在学习[node-lessons](https://github.com/alsotang/node-lessons/)时，自己做的练习。
 
 前四课做了下挑战任务，觉得很有意思。
 我并没有将挑战任务写在app.js里，而是放在app1.js里。期待自己能够有所突破。
